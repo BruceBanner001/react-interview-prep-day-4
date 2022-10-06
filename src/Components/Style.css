@@ -1,0 +1,29 @@
+body{
+    margin: 40px;
+}
+h1 {
+  color: orangered;
+}
+h2{
+    color: brown;
+}
+.q6{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    font-size: medium;
+}
+.q6:hover{
+    background-color: greenyellow;
+    color: red;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 7px;
+    border: 2px solid black;
+}
